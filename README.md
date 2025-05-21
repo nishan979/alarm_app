@@ -1,4 +1,4 @@
-# AlarmApp - Sunset Alarms
+# AlarmApp
 
 A beautiful alarm app that syncs with nature's rhythm, helping you wake up with sunset-based alarms using your current location.
 
