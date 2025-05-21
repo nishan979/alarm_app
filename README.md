@@ -1,17 +1,25 @@
-# alarmapp
+# AlarmApp - Sunset Alarms
 
-A new Flutter project.
+A beautiful alarm app that syncs with nature's rhythm, helping you wake up with sunset-based alarms using your current location.
 
-## Getting Started
+[View on GitHub](https://github.com/nishan979/alarm_app)
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Location-based sunset time detection
+- Customizable alarm scheduling
+- Gentle transition alarms aligned with sunset
+- Clean and intuitive UI
+- Local notifications with custom sounds
+- State persistence using SharedPreferences
+- Permission handling for location services
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# alarm_app
+- **Flutter** - Cross-platform framework
+- **GetX** - State management & dependency injection
+- **Geolocator** - Location services
+- **flutter_local_notifications** - Alarm notifications
+- **SharedPreferences** - Local storage
+- **intl** - Date/time formatting
+- **http** - Sunset API integration
